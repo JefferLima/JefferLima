@@ -18,7 +18,7 @@
 
 
 ### Saudações:
-  <p>Hi Dev's! I am a technology enthusiast, diving into the vast universe of programming. This repository reflects my initial journey, where every line of code is an achievement. I accept advice, collaborations and a good dose of challenges. Let's code together! 💻✨"</p><br/>
+  <p>Hi Devs! I am a technology enthusiast, diving into the vast universe of programming. This repository reflects my initial journey, where every line of code is an achievement. I accept advice, collaborations and a good dose of challenges. Let's code together! 💻✨"</p><br/>
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jeffer.com)
 
