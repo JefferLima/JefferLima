@@ -2,8 +2,8 @@
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jeffer.com)
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-lima-xxx/)
-[![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](jefferdev5@gmail.com)
-[![blog](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wa.me/qr/T2FMJALSAQN7J1)
+[![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/T2FMJALSAQN7J1)
+[![blog](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ![JefferLima GitHub stats](https://github-readme-stats.vercel.app/api?username=JefferLima&show_icons=true&theme=tokyonight)
 
